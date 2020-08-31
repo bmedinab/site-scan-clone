@@ -33,7 +33,7 @@
     "parserlib": "~0.2.3",
     "request": "^2.58.0",
     "tough-cookie": "^2.0.0",
-    "validator": "~0.4.22",
+    "validator": "~13.1.1",
     "xml2js": ">=0.2.0"
   },
   "devDependencies": {
